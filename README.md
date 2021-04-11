@@ -1,24 +1,6 @@
-# token-viewer
+## 数字货币币价浏览器（日常练手小项目）
 
-## Project setup
-```
-npm install
-```
+![image-20210411161307260](C:\Users\zqqqq\AppData\Roaming\Typora\typora-user-images\image-20210411161307260.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![image-20210411161317826](C:\Users\zqqqq\AppData\Roaming\Typora\typora-user-images\image-20210411161317826.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
